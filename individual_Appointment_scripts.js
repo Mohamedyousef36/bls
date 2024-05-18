@@ -5,7 +5,6 @@
 // @description  try to take over the world!
 // @author       @Itsmaarouf
 // @match       *://*.saudi.blsspainglobal.com/*
-// @match        *://*.blsspainvisa.com/*
 // @grant        none
 // ==/UserScript==
 //---------------------------------------------------------------------------------------------------------------------------
